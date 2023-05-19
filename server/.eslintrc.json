@@ -9,6 +9,7 @@
       {
         "endOfLine": "crlf"
       }
-    ]
+    ],
+    "camelcase": "off"
   }
 }
